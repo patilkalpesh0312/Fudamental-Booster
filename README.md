@@ -49,10 +49,6 @@ After taking input, it displays the information in a clean and formatted way.
 
 ## 📸 Project Preview
 
-![Input Exampl
-
-![Output Example](https://via.placeholder.com/600x200?text=Formatted+Output)
-
 ---
 
 ## 💡 Example Output
